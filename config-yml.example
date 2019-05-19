@@ -1,0 +1,10 @@
+server:
+  port:
+
+database:
+  dbname: 
+  dbuser:
+  dbpassword:
+
+EXAMPLE_VAR:
+EXAMPLE_PATH:
